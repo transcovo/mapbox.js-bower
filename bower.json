@@ -1,15 +1,17 @@
 {
-  "name": "mapboxjs",
-  "version": "2.0.0",
-  "authors": [
-    "Mapbox"
-  ],
-  "description": "Mapbox Javascript API Builded",
-  "main": "mapbox.js",
-  "keywords": [
-    "mapbox"
-  ],
-  "license": "See https://raw2.github.com/mapbox/mapbox.js/master/LICENSE.md",
+  "name": "mapbox.js",
+  "main": "index.js",
+  "version": "2.0.1",
   "homepage": "https://github.com/mapbox/mapbox.js",
-  "ignore": [  ]
+  "authors": [ "Mapbox" ],
+  "description": "Mapbox Javascript API",
+  "keywords": [ "mapbox" ],
+  "license": "See LICENSE.md",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "examples"
+  ]
 }
