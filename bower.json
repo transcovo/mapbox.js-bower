@@ -4,7 +4,7 @@
     "mapbox.css",
     "mapbox.js"
   ],
-  "version": "2.1.4-1-g5bcac5d",
+  "version": "2.1.5",
   "homepage": "https://github.com/mapbox/mapbox.js",
   "authors": ["Mapbox"],
   "description": "Mapbox Javascript API",
